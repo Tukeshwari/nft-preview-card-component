@@ -1,6 +1,10 @@
 # Frontend Mentor - NFT preview card component
-
-![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
+# deploy-link
+https://tukeshwari-nft-preview-card-component.netlify.app
+# desktop-view
+![desktop-design](https://user-images.githubusercontent.com/102142382/223813752-961c1243-30a4-4300-9029-263144e56878.jpg)
+# mobile-view
+![mobile-design](https://user-images.githubusercontent.com/102142382/223814224-473da230-b6df-4e95-a8eb-86761888188e.jpg)
 
 ## Welcome! 👋
 
